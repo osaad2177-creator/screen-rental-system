@@ -1,4 +1,4 @@
-const API = "حط_لينك_APPS_SCRIPT_هنا";
+const API = "https://script.google.com/macros/s/AKfycbz9MzOpy9EO-fjWpgO6bulTS7JDFfGJzvlGlb5umBmD8uCV4HB7C0xUy9zoc3ajvkSmAA/exec";
 
 function showPage(page) {
   document.querySelectorAll(".page").forEach(p => p.classList.add("hidden"));
